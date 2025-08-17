@@ -85,4 +85,6 @@ Sugestões de melhorias são **muito bem-vindas**!
 
 ## 👨‍💻 Autores
 
-- matheus.tecnodev@gmail.com
+- [Matheus Freire](https://github.com/Matheus-TecDev)  
+- [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/)  
+📫 Contato: matheus.tecnodev@gmail.com
