@@ -8,9 +8,13 @@ A ideia é praticar lógica de programação e interação com o usuário sem de
 
 ---
 
-## 🎮 Preview
+## 🎮 Preview  
 
 ![Preview do Jogo](images/preview.png)
+
+👉 [Jogar agora na Vercel](https://projeto-dc-letreco.vercel.app/)
+
+[![Deploy na Vercel](https://vercel.com/button)](https://projeto-dc-letreco.vercel.app/)
 
 ---
 
