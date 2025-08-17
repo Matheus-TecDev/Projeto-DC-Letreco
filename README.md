@@ -50,7 +50,7 @@ A ideia é praticar lógica de programação e interação com o usuário sem de
 
 1. Clone o repositório:
 
-    git clone https://github.com/seu-usuario/letreco.git
+    git clone https://github.com/Matheus-TecDev/Projeto-DC-Letreco.git
 
     
 2. Acesse a pasta do projeto:
